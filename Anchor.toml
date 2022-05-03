@@ -1,12 +1,12 @@
-[programs.localnet]
-gem_bank = "BH5Utz3JsRLUhc6RLXfGZUbbDsNShyChe4XPfKajkse9"
-gem_farm = "2umcQzLEJGfcDqEwBw6q8q85PpNFwbvN52A4i3bkWNBQ"
+[programs.devnet]
+gem_bank = "BBhN2thD82giqjvvt7uu2Qhz4EerCc4RguFieFyt8oee"
+gem_farm = "4YW3DTHV923to7zUj3cW63bLtJbbxVjMhwQUYXQC2z4Q"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/cybern8ek/.config/solana/id.json"
 
 [scripts]
